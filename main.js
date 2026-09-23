@@ -111,7 +111,7 @@ window.onload = async () => {
         }
       }
     }
-    if (clickcount >= 15) {
+    if (clickcount >= 5) {
       hyperlink.classList.remove("hide");
       hyperlink.classList.add("show");
       console.log("hyperlink!");
