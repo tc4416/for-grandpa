@@ -16,7 +16,7 @@ let actions = [
   "New York is beautiful in fall",
   "you are the best grandpa"
 ];
-const finalPhrase = "I love you and thank you for loving me";
+const finalPhrase = "I love you and thank you for loving me.";
 
 let imageArray = [
   "media/hello1.png",
@@ -63,7 +63,7 @@ window.onload = async () => {
   document.addEventListener("click", () => {
     clickcount += 1;
 
-    if (clickcount > 25) {
+    if (clickcount > 18) {
       phrase.innerHTML = finalPhrase;
       phrase.classList.add("show", "final-phrase");
       phrase.classList.remove("hide");
