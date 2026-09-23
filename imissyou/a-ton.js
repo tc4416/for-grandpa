@@ -35,7 +35,7 @@ let imageArray = [
   "media/hello14.png",
   "media/hello15.png",
   "media/hello16.png",
-  "media/hello17.png",
+
 ];
 
 let choose;
