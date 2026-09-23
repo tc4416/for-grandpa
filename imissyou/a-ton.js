@@ -3,7 +3,7 @@ let actions = [
   "I am scared that I will never see you again",
   "mom is strong and you should be proud of her",
   "the first wish I make when I pray is always for you",
-  "your snoring is always very loud",
+  "your snoring is always very loud and I love it",
   "I wish I could know more about you",
   "smoking is bad",
   "I am sorry that I don't call you as much as I want to",
@@ -14,8 +14,7 @@ let actions = [
   "those orchids in your living room are very pretty",
   "I wish I could spend more time with you",
   "New York is beautiful in fall",
-  "show me that saying goodbye does not need to be sad",
-  "are you",
+  "you are the best grandpa"
 ];
 const finalPhrase = "I love you and thank you for loving me";
 
